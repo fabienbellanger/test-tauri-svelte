@@ -1,0 +1,7 @@
+node_modules
+
+# Svelte
+public/build
+
+# Tauri
+src-tauri/target
